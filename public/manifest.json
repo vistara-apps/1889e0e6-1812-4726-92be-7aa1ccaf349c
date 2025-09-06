@@ -1,0 +1,14 @@
+{
+  "name": "Onchain Pulse",
+  "description": "Onchain Pulse is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://1889e0e6-1812-4726-92be-7aa1ccaf349c.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Onchain Pulse",
+      "description": "Onchain Pulse is a Base Mini App built with Zara.",
+      "url": "https://1889e0e6-1812-4726-92be-7aa1ccaf349c.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
