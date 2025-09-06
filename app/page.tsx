@@ -87,7 +87,7 @@ export default function Home() {
           </div>
           <div className="metric-card text-center">
             <Zap className="mx-auto mb-2 text-yellow-400" size={24} />
-            <div className="text-2xl font-bold text-text-primary">< 2s</div>
+            <div className="text-2xl font-bold text-text-primary">&lt; 2s</div>
             <div className="text-sm text-text-secondary">Response Time</div>
           </div>
         </div>
